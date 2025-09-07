@@ -1,2 +1,2 @@
 # ForAchievements
-for new badge
+for new Badge
